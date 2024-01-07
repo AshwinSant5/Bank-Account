@@ -12,11 +12,3 @@ NOTES:
   the user successfully logs into their account. 
   
  Thank you and hope you enjoy your experience. 
-  
-  Regards, 
-  Ashwin Santhosh, Mihir Mistry, Nikhil Bugidi
-  Mistry bank Developer Team
-  
-  Mistry bank
-  21 Jump Street
-  Los Santhosh, NB
